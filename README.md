@@ -18,7 +18,7 @@ This script is based on `MGRec3_graphs.R` adapted for a reduced number of sample
 
 First of all, let's set the working directory and the load the libraries needed for this script.
 
-```r
+``` r
 setwd("C:/path/to/your/working/directory")
 
 library(scales) # Scale functions for visualization
