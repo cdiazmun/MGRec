@@ -10,7 +10,7 @@ This is a guide to perform metagenomic reads recruitment plotting. Most of the c
   1. **MGrec.xxx.besthit.tab**. A tab separated file containing the best hit for each read against a BLAST database.
   2. **xxx_contig_len_gen_sp.txt**. A tab separated file containing the length, genus name, and species name for every contig. 
 
-The information on how to generate those files is publicly available in Verce *et al.,* 2019 (10.3389/fmicb.2019.00479).
+The information on how to generate those files is publicly available in [Verce *et al.,* 2019](https://doi.org/10.3389/fmicb.2019.00479).
 
 ## Usage
 
